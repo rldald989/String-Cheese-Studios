@@ -47,5 +47,6 @@
         "chrono": "cpp",
         "ctime": "cpp",
         "ratio": "cpp"
-    }
+    },
+    "liveServer.settings.port": 5501
 }

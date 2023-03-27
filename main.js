@@ -1,1 +1,1 @@
-print("hi");
+let bar = document.getElementsByClassName(".top-bar");
